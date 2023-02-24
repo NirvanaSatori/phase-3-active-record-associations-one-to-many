@@ -1,3 +1,5 @@
+require 'faker'
+
 puts "🌱 Seeding data..."
 
 # run a loop 50 times
@@ -19,5 +21,6 @@ puts "🌱 Seeding data..."
     )
   end
 end
+
 
 puts "🌱 Done seeding!"
